@@ -27,7 +27,7 @@ A little about me:
 [![Rajendras github stats](https://github-readme-stats.vercel.app/api?username=rghorpade80&theme=cobalt&show_icons=true)](https://github.com/gb8may/github-readme-stats)
 
 ### 💡  Languages 
-![languages]
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rghorpade80&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
